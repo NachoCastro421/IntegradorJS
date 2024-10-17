@@ -57,3 +57,9 @@ Interacción con el DOM:
 Genera dinámicamente la grilla de productos y los totales en función de los datos almacenados.
 Permite a los usuarios eliminar productos, actualizando tanto el DOM como localStorage.
 
+Instalación:
+
+Para comenzar con este proyecto, primero necesitas clonar el repositorio y luego instalar las dependencias de Vite:
+
+git clone () cd <NOMBRE_DEL_REPOSITORIO> npm install
+
